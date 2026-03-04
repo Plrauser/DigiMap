@@ -1,6 +1,6 @@
 // Service Worker for DigiMap PWA
 // Update this version number when you want to force cache refresh
-const SW_VERSION = '6.3.2';
+const SW_VERSION = '6.3.4';
 const CACHE_NAME = 'digimap-v' + SW_VERSION;
 const RUNTIME_CACHE = 'digimap-runtime-v' + SW_VERSION;
 
